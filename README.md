@@ -24,10 +24,10 @@
 ### 2023-03-26 更新
 > 【[广东](./md/26.md)】  【[北京](./md/33.md)】  【[湖南](./md/29.md)】  大幅度调整，建议重新下载保存
 
-<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindm.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HOY1.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI5.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png">
+<img src="./tv/xindm.png"><img src="./tv/jtlc.png"><img src="./tv/TVB3.png"><img src="./tv/TVB5.png"><img src="./tv/HOY1.png"><img src="./tv/CTI5.png"><img src="./tv/jingcai01.png"><img src="./tv/jingcai02.png"><img src="./tv/jingcai03.png"><img src="./tv/jingcai04.png">
 
 ### 2023-03-20 更新
 > 【[辽宁](./md/48.md)】  【[福建](./md/24.md)】  【[山东](./md/20.md)】  【[天津](./md/34.md)】
 > 按照新的频道呼号核对实际台标做了名称调整
 
-<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TaiwanPlus.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian9.png"><img src="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/bjtjcai.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei7.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mnews.png"><img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/inbm.png">
+<img src="./tv/leyou.png"><img src="./tv/huashu4k.png"><img src="./tv/TaiwanPlus.png"><img src="./tv/Fujian9.png"><img src="./tv/bjtjcai.png"><img src="./tv/Hubei7.png"><img src="./tv/Mnews.png"><img src="./tv/inbm.png">
