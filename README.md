@@ -1,4 +1,4 @@
-# 使用的静态资源，通过jsDeliverr加速
+# 静态资源加速
 
 ## jsDelivr
 - https://cdn.jsdelivr.net/gh/viptvjs/img/xxx
