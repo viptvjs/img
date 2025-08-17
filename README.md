@@ -1,3 +1,19 @@
+# 使用的静态资源，通过jsDeliverr加速
+
+## jsDelivr
+- https://cdn.jsdelivr.net/gh/viptvjs/img/xxx
+- https://gcore.jsdelivr.net/gh/viptvjs/img/xxx (备用)
+- https://fastly.jsdelivr.net/gh/viptvjs/img/xxx (备用)
+## Statically
+https://cdn.statically.io/gh/:user/:repo/:tag/:file
+[转换地址](https://statically.io/convert/)
+
+## GitHack
+直接从 GitHub，Bitbucket 或 GitLab 提供原始文件
+[转换地址](https://raw.githack.com/)
+
+
+
 ### TVlogo
 > 所有资源来自网络，收集整理只为学习交流，未经版权方同意不得商用，私自商用而引发的问题本人概不负责，谢谢理解！如本仓库中部分内容存在侵权行为，欢迎留言联系我删除。
 > 
